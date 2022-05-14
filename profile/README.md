@@ -1,7 +1,7 @@
 KidErra by SheHacks is a system designed to monitor and protect the children from stressful/inappropriate content and/or situations.
 
 # KidErra Project
-This project is a 34 hours work for the CSE infamous hackathon HACK !T in its 3rd edition 2022.  [Link to the event's website](https://cse-hackit-2k22.cse.club/?fbclid=IwAR3mTsmTSrF91ot9eii6jG55SYlqSoPK5IoJvoXt3-ZRPgeSyOfutvy8nYo).
+This project is a 34 hours work for the CSE famous hackathon HACK !T in its 3rd edition 2022.  [Link to the event's website](https://cse-hackit-2k22.cse.club/?fbclid=IwAR3mTsmTSrF91ot9eii6jG55SYlqSoPK5IoJvoXt3-ZRPgeSyOfutvy8nYo).
 
 ## Project Intro/Objective
 The purpose of this project is to monitor and watch over kids as they develop curiosity for new content and experiences. 
