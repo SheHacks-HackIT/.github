@@ -38,5 +38,5 @@ The parent(s) can access their child's current state through a mobile app. They'
 
 The project can be used not only when the kid's consuming content, but also in their day-to-day life if the parents wish to monitor their kids stress rate throughout the day.
 
-She hacks, she cares, she wins.
+She hacks, she cares.
 
